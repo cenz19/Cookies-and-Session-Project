@@ -1,5 +1,5 @@
 # 🧑‍💻 PHP Cookie and Session Management Project
-This repository contains a PHP-based web application focusing on cookie and session management. The project aims to demonstrate the implementation of cookies and sessions in a practical scenario. It allows users to configure settings, input GPA and personal details, and display the collected information based on the chosen settings.
+This repository contains a PHP-based web application focusing on cookie and session management. The project aims to demonstrate the implementation of cookies and sessions in a practical scenario. It allows users to configure settings, input GPA and personal details, and display the collected information based on the chosen settings. 
 
 # 👁️ Features:
 1. User Settings: Configure the application settings including default GPA, address visibility, font size, and font decoration options (bold, underline, italic).
