@@ -25,6 +25,10 @@ This repository contains a PHP-based web application focusing on cookie and sess
 
 5. Use the provided buttons to navigate through the different stages of the application: settings configuration, GPA and personal details input, and information display.
 
+# 📃 Documentation
+![Screenshot (502)](https://github.com/user-attachments/assets/a0f631df-dac1-4bf2-b0d6-89e45ccf717d)
+This is the Main Page
+
 # 🤝 Contribution:
 Contributions to this repository are welcome! If you have ideas for additional features, improvements, or bug fixes, please feel free to submit a pull request. Let's collaborate and enhance this project together.
 
